@@ -9,3 +9,6 @@ typechain-types
 cache
 artifacts
 
+# ds-store files
+.DS_Store
+
